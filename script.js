@@ -1,5 +1,5 @@
 const API_URL = "https://api.openai.com/v1/chat/completions";
-const API_KEY = "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";
+const API_KEY = "xxxxxxxxxxxxxxxxxx";
 
 const promptInput = document.querySelector(".promptInput");
 const generateBtn = document.querySelector(".generateBtn");
